@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#EEEEEE</color>
+    <color name="colorText">#ffffff</color>
+    <color name="colorTextHint">#745376</color>
+
+    <color name="greenishLight">#6effe8</color>
+    <color name="greenishDark">#00b686</color>
+    <color name="greenishPrimary">#1de9b6</color>
+    <color name="greenishSecondaryLight">#9effff</color>
+    <color name="greenishSecondaryDark">#14cba8</color>
+    <color name="greenishSecondaryPrimary">#64ffda</color>
+
+
+    <color name="backgroundGray">#fafafa</color>
+
+
+    <color name="pack2colorPrimary">#b3e5fc</color>
+    <color name="pack2colorPrimaryDark">#82b3c9</color>
+    <color name="pack2colorPrimaryLight">#e6ffff</color>
+    <color name="pack2colorSecondary">#c51162</color>
+    <color name="pack2colorSecondaryDark">#8e0038</color>
+    <color name="pack2colorSecondaryLight">#fd558f</color>
+    <color name="pack2colorText">#212121</color>
+    <color name="pack2colorTextHint">#484848</color>
+
+
+
+</resources>
